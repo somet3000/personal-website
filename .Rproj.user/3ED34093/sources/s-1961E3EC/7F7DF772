@@ -3,7 +3,7 @@
     "path": "~/Desktop/career/personal-website/config.yaml",
     "project_path": "config.yaml",
     "type": "yaml",
-    "hash": "3520959440",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1671509458114.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "33,0",
-        "scrollLine": "3"
+        "cursorPosition": "0,22",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1671513278,
+    "lastKnownWriteTime": 1671856408,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1671513278116,
+    "last_content_update": 1671856408748,
     "read_only": false,
     "read_only_alternatives": []
 }
