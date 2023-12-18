@@ -13,11 +13,15 @@ params:
         enabled: true
         title: "Karthik Guruvayurappan"
         subtitle: >
-            I am currently a fourth-year undergraduate student at UC San Diego 
-            and a researcher at the Salk Institute. I am interested in
-            bioinformatics, machine learning, and genomics. Outside of work,
-            I enjoy running, playing the guitar, and playing tennis. I am also
-            an avid 49ers fan!
+            I am currently a first-year PhD student studying computational biology
+            and medicine in the Tri-Institutional PhD program joint between Weill 
+            Cornell Medical College, Memorial Sloan Kettering Cancer Center, the 
+            Rockefeller University, and Cornell University. Previously, I studied
+            data science and biology and UC San Diego and worked as an undergraduate
+            researcher at the Salk Institute for Biological Studies. I am interested
+            in genomics, computational biology, and machine learning. Outside of work,
+            I enjoy running, strumming the guitar, and playing tennis. I am also an avid
+            49ers fan!
     
     socialIcons:
         - name: "github"
@@ -26,8 +30,6 @@ params:
           url: "https://scholar.google.com/citations?user=RWn1XV4AAAAJ&hl=en"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/karthik-guruvayurappan-172747163/"
-        - name: "mastodon"
-          url: "https://genomic.social/@somet3000"
         - name: "twitter"
           url: "https://twitter.com/somet3000"
         - name: "cv"
